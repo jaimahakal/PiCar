@@ -220,16 +220,3 @@ finally:
  Gp.output(Buzzer,0);
  display.lcd_clear();
  Gp.cleanup();
-
-
-
-LETTER OF RECOMMENDATION
-I am writing this letter in support of Mr. Abhay Tyagi’s application to your University, for pursuing graduate study and research at your reputed institute. 
-I have known him since 3rd year of graduation during which I taught him the subject ‘Web Technology’ in his VII semester at SRM University. Additionally, I evaluated his third-year Minor project titled Shopping Cart based on online shopping. I evaluated his class progress, assignments and assessments. I was informed about his enthusiasm to learn the Agile Methodology for software development during his industrial training at Secure Private Ltd, Udaipur. I found Abhay to be a sincere and hard-working student, He displayed his potential to brilliantly practically execute theoretical concepts in his Minor project where he scored an “S” grade (Outstanding Grade) after developing a fully functional shopping website.
-Being an active participant in many college seminars and workshops he demonstrated strong will to learn, apt maturity and sincerity. He encouraged fellow students to take up projects in varied inter-disciplinary fields and constantly motivated his juniors and batchmates to participate more in technical events all over the country. Also, his constant involvement in teaching rural and specially-abled kids reflected his strong extra co-curricular presence on campus and humble nature.
-Abhay has a very clear view of his goals and always remains clear of indecisiveness and hesitation. He likes to lead from the front and possesses a special talent of always coming up with original and creative ideas.
-Thus, I am sure of his capability to pursue the graduate program. Accordingly, I endorse his application wholeheartedly and wish him good luck for the future.
-Prof. Govind Verma 
-Assistant Professor, 
-SRM University, __ (city)
-
